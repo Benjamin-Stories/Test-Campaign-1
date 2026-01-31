@@ -1,0 +1,33 @@
+﻿{
+  "current_date": "2026-01-31",
+  "current_time": "Night (First Watch)",
+  "current_location": "Sablemarket Cay",
+  "ship_name": "(TBD)",
+  "ship_type": "Small Sloop",
+  "ship_integrity": 8,
+  "crew_count": 40,
+  "crew_morale": 6,
+  "supplies": 5,
+  "powder_shot": 6,
+  "medical": 4,
+  "loot_on_hand": "A few trade bars, assorted trinkets, and modest coin\u2014enough to keep taverns talking but not enough to pay full shares.",
+  "notoriety": 4,
+  "bounty": "Crown notice posted in major ports; details unknown but rising.",
+  "debts_oaths": [
+    "A docking debt at Port Scathe (fees deferred).",
+    "An unnamed favor owed to a Free Harbors fixer."
+  ],
+  "faction_standing": [
+    "Crown Navy: Hostile",
+    "Eastwater Company: Wary/Interested",
+    "Free Harbors League: Conditional Sanctuary",
+    "Blackwake Circle: Mixed (rivals + potential allies)",
+    "Tideborn Covenant: Watching"
+  ],
+  "current_job_leads": [
+    "Rumor auction: bottle-map to the Sunken Crown (low tide in three days).",
+    "Company courier: offer of 'exclusive' work from Factor Lysa Quell.",
+    "Navy presence at Sablemarket: someone is asking for Ben the Muster's berth."
+  ],
+  "stress_clock": 5
+}

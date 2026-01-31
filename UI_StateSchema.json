@@ -1,0 +1,95 @@
+﻿{
+  "title": "Sails of the Sapphire Archipelago \u2014 Campaign State",
+  "fields": [
+    {
+      "key": "current_date",
+      "label": "Current Date",
+      "type": "text"
+    },
+    {
+      "key": "current_time",
+      "label": "Time / Watch",
+      "type": "text"
+    },
+    {
+      "key": "current_location",
+      "label": "Current Location",
+      "type": "text"
+    },
+    {
+      "key": "ship_name",
+      "label": "Ship Name",
+      "type": "text"
+    },
+    {
+      "key": "ship_type",
+      "label": "Ship Type",
+      "type": "text"
+    },
+    {
+      "key": "ship_integrity",
+      "label": "Ship Integrity (0-10)",
+      "type": "number"
+    },
+    {
+      "key": "crew_count",
+      "label": "Crew Count",
+      "type": "number"
+    },
+    {
+      "key": "crew_morale",
+      "label": "Crew Morale (0-10)",
+      "type": "number"
+    },
+    {
+      "key": "supplies",
+      "label": "Supplies (0-10)",
+      "type": "number"
+    },
+    {
+      "key": "powder_shot",
+      "label": "Powder & Shot (0-10)",
+      "type": "number"
+    },
+    {
+      "key": "medical",
+      "label": "Medical Stores (0-10)",
+      "type": "number"
+    },
+    {
+      "key": "loot_on_hand",
+      "label": "Loot on Hand (narrative)",
+      "type": "text"
+    },
+    {
+      "key": "notoriety",
+      "label": "Notoriety / Heat (0-10)",
+      "type": "number"
+    },
+    {
+      "key": "bounty",
+      "label": "Active Bounty (narrative)",
+      "type": "text"
+    },
+    {
+      "key": "debts_oaths",
+      "label": "Debts & Oaths",
+      "type": "list"
+    },
+    {
+      "key": "faction_standing",
+      "label": "Faction Standing",
+      "type": "list"
+    },
+    {
+      "key": "current_job_leads",
+      "label": "Current Leads",
+      "type": "list"
+    },
+    {
+      "key": "stress_clock",
+      "label": "Crew Stress / Tension (0-10)",
+      "type": "number"
+    }
+  ]
+}
