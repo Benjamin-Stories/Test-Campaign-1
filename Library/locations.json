@@ -1,0 +1,27 @@
+{
+  "entries": {
+    "sablemarket-cay": {
+      "name": "Sablemarket Cay",
+      "description": "A floating pirate bazaar stitched from lashed docks, scavenged masts, and broken hulls; known for fences, duels, and rumor auctions.",
+      "history": "Session 1 opener location: the “Auction of Rumors,” where sealed bottles of secrets are sold.",
+      "importance": 4,
+      "image": null
+    },
+    "sunken-crown": {
+      "name": "The Sunken Crown",
+      "description": "Tidal ruins visible only at extreme low tide, rumored to be from a pre-Crown civilization.",
+      "history": "A chart to the Sunken Crown appears at Sablemarket Cay; low tide in three days creates a time-limited expedition window.",
+      "importance": 5,
+      "image": null
+    },
+    "sapphire-archipelago": {
+      "name": "The Sapphire Archipelago",
+      "description": "A chain of warm-current islands and treacherous reefs where trade routes, forts, and pirate havens collide.",
+      "history": "Core campaign setting; contested by the Crown, the Eastwater Company, and the Free Harbors League.",
+      "importance": 5,
+      "image": null
+    }
+  },
+  "version": 1,
+  "updated_utc": "2026-01-31T20:04:24Z"
+}

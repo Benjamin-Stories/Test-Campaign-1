@@ -1,0 +1,41 @@
+{
+  "entries": {
+    "crown-navy": {
+      "name": "The Crown Navy",
+      "description": "The Crown’s naval arm seeking to restore “law” and tax the sea lanes via patrols, warrants, and informants.",
+      "history": "A plainclothes lieutenant asked after Ben the Muster’s berth at Sablemarket Cay.",
+      "importance": 5,
+      "image": null
+    },
+    "eastwater-company": {
+      "name": "Eastwater Company",
+      "description": "A trade power aiming to monopolize commerce, insurance, and salvage rights using coin, contracts, and mercenaries.",
+      "history": "Pressuring crews with exclusive work; Factor Lysa Quell offers an “exclusive” week through a courier.",
+      "importance": 5,
+      "image": null
+    },
+    "free-harbors-league": {
+      "name": "Free Harbors League",
+      "description": "A coalition that keeps pirate havens independent—so long as dues, votes, or blood uphold the League’s terms.",
+      "history": "One of the three major powers shaping the archipelago’s politics and sanctuary ports.",
+      "importance": 4,
+      "image": null
+    },
+    "blackwake-circle": {
+      "name": "Rival Captains (the Blackwake Circle)",
+      "description": "A loose fraternity of notorious captains who feud, ally, and sometimes vote to name a common enemy.",
+      "history": "Includes Captain Joryn “Gullknife” Sable, active at Sablemarket Cay during the rumor-auction.",
+      "importance": 4,
+      "image": null
+    },
+    "tideborn-covenant": {
+      "name": "The Tideborn Covenant",
+      "description": "Sea-mystics who trade blessings and concealment for secrets, names, and binding vows to “keep the deep asleep.”",
+      "history": "Their oath-and-price witchcraft is a known force in the archipelago’s power struggles.",
+      "importance": 4,
+      "image": null
+    }
+  },
+  "version": 1,
+  "updated_utc": "2026-01-31T20:04:24Z"
+}

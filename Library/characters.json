@@ -1,0 +1,27 @@
+{
+  "entries": {
+    "ben-the-muster": {
+      "name": "Ben “the Muster”",
+      "description": "Captain of a small, fast sloop with a ~40-person crew; a charismatic recruiter and feared organizer.",
+      "history": "Has a rising bounty and is being actively sought (a Navy lieutenant asked after his current berth at Sablemarket Cay).",
+      "importance": 5,
+      "image": null
+    },
+    "joryn-gullknife-sable": {
+      "name": "Captain Joryn “Gullknife” Sable",
+      "description": "A rival captain and duelist from the Blackwake Circle who watches for chances to counter or undercut Ben.",
+      "history": "Present at the Sablemarket Cay rumor-auction, smiling from the front row as bidding begins on the Sunken Crown chart.",
+      "importance": 4,
+      "image": null
+    },
+    "lysa-quell": {
+      "name": "Factor Lysa Quell",
+      "description": "Eastwater Company factor known as a \"smiling knife,\" offering work that creates dependence.",
+      "history": "Through a courier at Sablemarket Cay, offers to “buy your next week—exclusive.”",
+      "importance": 4,
+      "image": null
+    }
+  },
+  "version": 1,
+  "updated_utc": "2026-01-31T20:04:24Z"
+}
