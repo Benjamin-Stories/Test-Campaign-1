@@ -1,27 +1,62 @@
 {
   "entries": {
     "ben-the-muster": {
-      "name": "Ben “the Muster”",
-      "description": "Captain of a small, fast sloop with a ~40-person crew; a charismatic recruiter and feared organizer.",
-      "history": "Has a rising bounty and is being actively sought (a Navy lieutenant asked after his current berth at Sablemarket Cay).",
+      "name": "Ben \"the Muster\"",
+      "description": "Captain of the campaign's starting sloop (name not established yet), commanding about 40 crew. He is known as a charismatic recruiter and a feared organizer, a reputation that attracts both allies and trouble. His name draws attention openly, even in pirate spaces like Sablemarket Cay.",
+      "history": "- Ben \"the Muster\" is the campaign's captain.\n- Ben commands a small, fast sloop.\n- Ben's crew is approximately 40 people.\n- A plainclothes Navy lieutenant asks publicly for Ben's current berth at Sablemarket Cay.\n- Bounties are rising, and the Company is buying informants in Free Harbors.",
       "importance": 5,
       "image": null
     },
     "joryn-gullknife-sable": {
-      "name": "Captain Joryn “Gullknife” Sable",
-      "description": "A rival captain and duelist from the Blackwake Circle who watches for chances to counter or undercut Ben.",
-      "history": "Present at the Sablemarket Cay rumor-auction, smiling from the front row as bidding begins on the Sunken Crown chart.",
+      "name": "Captain Joryn \"Gullknife\" Sable",
+      "description": "A rival captain and duelist associated with the Rival Captains known as the Blackwake Circle. He treats competition as a public game, watching for chances to counter or undercut Ben. At Sablemarket Cay, he is present at the rumor auction and tracks Ben's moves closely.",
+      "history": "- Joryn \"Gullknife\" Sable is a rival captain.\n- Gullknife is associated with the Rival Captains (the Blackwake Circle).\n- Gullknife is at Sablemarket Cay during the auction of rumors.\n- Gullknife smiles at Ben from the front row as bidding begins on the Sunken Crown chart.",
       "importance": 4,
       "image": null
     },
     "lysa-quell": {
       "name": "Factor Lysa Quell",
-      "description": "Eastwater Company factor known as a \"smiling knife,\" offering work that creates dependence.",
-      "history": "Through a courier at Sablemarket Cay, offers to “buy your next week—exclusive.”",
+      "description": "An Eastwater Company factor with a reputation for being polite, professional, and dangerous. She offers work that is designed to create dependence and narrow a crew's options. So far, her influence reaches the crew indirectly through Company couriers and contracts.",
+      "history": "- Lysa Quell is a factor of the Eastwater Company.\n- A Company courier says Quell will \"buy your next week - exclusive\" at Sablemarket Cay.\n- Quell has not appeared directly in the story yet.",
       "importance": 4,
+      "image": null
+    },
+    "alaric-vane": {
+      "name": "Commodore Alaric Vane",
+      "description": "A senior face of the Crown Navy described as ruthless. He is positioned as a major threat whose interest in Ben is personal, not merely professional. His broader operations and current location are not established yet.",
+      "history": "- Alaric Vane is a commodore in the Crown Navy.\n- Vane wants Ben's head for a past humiliation.",
+      "importance": 4,
+      "image": null
+    },
+    "mirelda-soot": {
+      "name": "Lt. Mirelda Soot",
+      "description": "A Crown Navy lieutenant known for being a clever hunter. She is characterized as someone who hunts by ledgers rather than rumors, implying a methodical, paper-trail approach. Her current involvement in the opening scene is not established yet.",
+      "history": "- Mirelda Soot is a lieutenant in the Crown Navy.\n- Soot is described as a clever hunter.\n- Soot hunts by ledgers, not rumors.",
+      "importance": 3,
+      "image": null
+    },
+    "old-salt-merrow": {
+      "name": "Councilor \"Old Salt\" Merrow",
+      "description": "A leading face of the Free Harbors League and a pragmatist focused on keeping sanctuary running. He represents the League's reality that safety has costs and politics. His specific actions in the current storyline are not established yet.",
+      "history": "- \"Old Salt\" Merrow is a councilor in the Free Harbors League.\n- Merrow is described as a pragmatist.\n- Merrow's direct role in current events is not established yet.",
+      "importance": 3,
+      "image": null
+    },
+    "nemi-vale": {
+      "name": "Arbitrator Nemi Vale",
+      "description": "A Free Harbors League enforcer described as a code-focused official who hates unpaid debts. She embodies the League's ability to make sanctuary conditional through rules and consequences. Her direct involvement with Ben's crew is not established yet.",
+      "history": "- Nemi Vale is an arbitrator in the Free Harbors League.\n- Vale is described as a code-enforcer.\n- Vale hates unpaid debts.\n- Vale's direct role in current events is not established yet.",
+      "importance": 3,
+      "image": null
+    },
+    "sister-brine": {
+      "name": "Sister Brine",
+      "description": "A named face of the Tideborn Covenant, presented as a priestess who trades in vows. She is tied to the setting's oath-and-price sea-witchcraft and its lasting debts and marks. Her actions and relationship to the crew are not established yet.",
+      "history": "- Sister Brine is a face of the Tideborn Covenant.\n- Sister Brine is described as a priestess who trades in vows.\n- Sister Brine's direct role in current events is not established yet.",
+      "importance": 3,
       "image": null
     }
   },
   "version": 1,
-  "updated_utc": "2026-01-31T20:04:24Z"
+  "updated_utc": "2026-01-31T20:22:47Z"
 }

@@ -1,27 +1,69 @@
 {
   "entries": {
+    "sapphire-archipelago": {
+      "name": "The Sapphire Archipelago",
+      "description": "A broad chain of islands scattered across warm currents and treacherous reefs, serving as the campaign's main theater. Trade routes thread between coral mazes, hidden coves, and channels watched by forts. It is contested by the Crown, the Eastwater Company, and the Free Harbors League.",
+      "history": "- The Sapphire Archipelago is the core region of play.\n- Warm currents and treacherous reefs shape travel and conflict in the archipelago.\n- Trade routes pass forts and hazardous reef corridors.\n- The archipelago is contested by the Crown, the Eastwater Company, and the Free Harbors League.",
+      "importance": 5,
+      "image": null
+    },
     "sablemarket-cay": {
       "name": "Sablemarket Cay",
-      "description": "A floating pirate bazaar stitched from lashed docks, scavenged masts, and broken hulls; known for fences, duels, and rumor auctions.",
-      "history": "Session 1 opener location: the “Auction of Rumors,” where sealed bottles of secrets are sold.",
+      "description": "A floating pirate bazaar stitched together from lashed docks, scavenged masts, and broken hulls. It is known for fences, duels, and rumor auctions where information is sold like cargo. The whole place creaks and shifts with the water under it, and it hosts the campaign's opener scene.",
+      "history": "- Sablemarket Cay is a pirate bazaar built from lashed docks and salvaged hulls.\n- A crier runs an auction selling \"secrets\" sealed in glass bottles at the Cay.\n- A Company courier delivers Quell's \"exclusive\" offer to Ben at the Cay.\n- A plainclothes Navy lieutenant asks for Ben's current berth at the Cay.\n- A chart to the Sunken Crown is auctioned at the Cay.",
       "importance": 4,
       "image": null
     },
     "sunken-crown": {
       "name": "The Sunken Crown",
-      "description": "Tidal ruins visible only at extreme low tide, rumored to be from a pre-Crown civilization.",
-      "history": "A chart to the Sunken Crown appears at Sablemarket Cay; low tide in three days creates a time-limited expedition window.",
+      "description": "Tidal ruins visible only at extreme low tide, rumored to be from a pre-Crown civilization. Access is time-gated by the sea, making it rare and highly contested when it appears. It draws treasure-seekers and anyone pursuing old power.",
+      "history": "- The Sunken Crown is visible only at extreme low tide.\n- The ruins are rumored to be from a pre-Crown civilization.\n- A chart to the Sunken Crown is offered at auction at Sablemarket Cay.\n- The auctioneer claims the low-tide window is in three days.",
       "importance": 5,
       "image": null
     },
-    "sapphire-archipelago": {
-      "name": "The Sapphire Archipelago",
-      "description": "A chain of warm-current islands and treacherous reefs where trade routes, forts, and pirate havens collide.",
-      "history": "Core campaign setting; contested by the Crown, the Eastwater Company, and the Free Harbors League.",
-      "importance": 5,
+    "brightwater-run": {
+      "name": "The Brightwater Run",
+      "description": "The main trade corridor of the Sapphire Archipelago. It is described as the richest set of targets but also the area with the highest patrol density. It represents a constant risk-reward axis for crews operating in the region.",
+      "history": "- The Brightwater Run is the main trade corridor in the archipelago.\n- The Brightwater Run has the richest targets.\n- The Brightwater Run has the highest patrol density.",
+      "importance": 3,
+      "image": null
+    },
+    "needle-reefs": {
+      "name": "The Needle Reefs",
+      "description": "A labyrinth of shallows in the Sapphire Archipelago used for ambushes and escapes. It is a major hazard zone where navigation and ship handling matter more than raw firepower. Its detailed map and specific sub-locations are not established yet.",
+      "history": "- The Needle Reefs are labyrinthine shallows.\n- The Needle Reefs are described as perfect for ambushes and escapes.\n- Further details about the Needle Reefs are not established yet.",
+      "importance": 3,
+      "image": null
+    },
+    "gallowsweather-belt": {
+      "name": "Gallowsweather Belt",
+      "description": "A region of recurring squalls and fog where ships vanish and wrecks rise. It supports the setting's theme that the sea is dangerous and remembers debts. Specific routes through it are not established yet.",
+      "history": "- The Gallowsweather Belt features recurring squalls and fog.\n- Ships vanish in the Gallowsweather Belt.\n- Wrecks rise in the Gallowsweather Belt.\n- Further details about the Gallowsweather Belt are not established yet.",
+      "importance": 3,
+      "image": null
+    },
+    "port-scathe": {
+      "name": "Port Scathe",
+      "description": "A Free Harbor port described as sanctuary with fees and politics. It functions as a place where safety is conditional and tied to League demands. Its physical details and current leadership on-site are not established yet.",
+      "history": "- Port Scathe is a Free Harbor.\n- Port Scathe is described as sanctuary with fees and politics.\n- Further details about Port Scathe are not established yet.",
+      "importance": 3,
+      "image": null
+    },
+    "crownhold-fort": {
+      "name": "Crownhold Fort",
+      "description": "A Crown-controlled naval anchorage and court of admiralty. It represents the Crown's legal and military infrastructure in the archipelago. Its garrison strength and current commanders on-site are not established yet.",
+      "history": "- Crownhold Fort is a naval anchorage.\n- Crownhold Fort is a court of admiralty.\n- Crownhold Fort is controlled by the Crown.\n- Further details about Crownhold Fort are not established yet.",
+      "importance": 3,
+      "image": null
+    },
+    "quellspire": {
+      "name": "Quellspire",
+      "description": "A Company port characterized by warehouses, contracts, and \"legal salvage.\" It exemplifies the Eastwater Company's ability to turn paperwork into control. Its specific defenses and current officials beyond Quell are not established yet.",
+      "history": "- Quellspire is an Eastwater Company port.\n- Quellspire features warehouses, contracts, and \"legal salvage.\"\n- Further details about Quellspire are not established yet.",
+      "importance": 3,
       "image": null
     }
   },
   "version": 1,
-  "updated_utc": "2026-01-31T20:04:24Z"
+  "updated_utc": "2026-01-31T20:22:47Z"
 }

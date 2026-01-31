@@ -2,40 +2,47 @@
   "entries": {
     "crown-navy": {
       "name": "The Crown Navy",
-      "description": "The Crown’s naval arm seeking to restore “law” and tax the sea lanes via patrols, warrants, and informants.",
-      "history": "A plainclothes lieutenant asked after Ben the Muster’s berth at Sablemarket Cay.",
+      "description": "The Crown's naval arm, seeking to restore \"law\" and tax the sea lanes. It operates through patrols, warrants, and informants, and it pressures ports to cooperate. Even plainclothes officers can be a serious threat in supposedly neutral spaces.",
+      "history": "- The Crown Navy aims to restore \"law\" and tax the sea lanes.\n- The Crown Navy uses patrols, warrants, and informants.\n- Commodore Alaric Vane is a face of the Crown Navy.\n- Lt. Mirelda Soot is a face of the Crown Navy.\n- A plainclothes Navy lieutenant asks after Ben's current berth at Sablemarket Cay.",
       "importance": 5,
       "image": null
     },
     "eastwater-company": {
       "name": "Eastwater Company",
-      "description": "A trade power aiming to monopolize commerce, insurance, and salvage rights using coin, contracts, and mercenaries.",
-      "history": "Pressuring crews with exclusive work; Factor Lysa Quell offers an “exclusive” week through a courier.",
+      "description": "A trade power attempting to monopolize commerce, insurance, and salvage rights across the archipelago. It uses coin, contracts, mercenaries, and legal pressure to make crews dependent or disposable. Company deals often come with fine print that functions like a leash.",
+      "history": "- The Eastwater Company seeks to monopolize trade, insurance, and salvage rights.\n- The Company uses contracts and legal pressure to control crews.\n- Factor Lysa Quell is a face of the Eastwater Company.\n- The Company offers Ben \"exclusive\" work via a courier at Sablemarket Cay.\n- The Company is buying informants in Free Harbors.",
       "importance": 5,
       "image": null
     },
     "free-harbors-league": {
       "name": "Free Harbors League",
-      "description": "A coalition that keeps pirate havens independent—so long as dues, votes, or blood uphold the League’s terms.",
-      "history": "One of the three major powers shaping the archipelago’s politics and sanctuary ports.",
+      "description": "A coalition that keeps pirate havens independent on League terms: pay, vote, or bleed. It provides sanctuary ports, fences, and shipyard access, but demands compliance and dues. Internal politics, vendettas, and enforcement can make safety conditional.",
+      "history": "- The Free Harbors League keeps pirate havens independent on League terms.\n- The League provides sanctuary ports, fences, and shipyard access.\n- Councilor \"Old Salt\" Merrow is a face of the League.\n- Arbitrator Nemi Vale is a face of the League.\n- The Company is buying informants in Free Harbors.",
       "importance": 4,
       "image": null
     },
     "blackwake-circle": {
       "name": "Rival Captains (the Blackwake Circle)",
-      "description": "A loose fraternity of notorious captains who feud, ally, and sometimes vote to name a common enemy.",
-      "history": "Includes Captain Joryn “Gullknife” Sable, active at Sablemarket Cay during the rumor-auction.",
+      "description": "A loose fraternity of notorious captains whose membership is based on reputation and leverage rather than formal structure. They feud, ally, and sometimes vote to declare a common enemy, with rivalries that spill into ports and public events. Their internal rules and decision process are not established yet.",
+      "history": "- The Blackwake Circle is a loose fraternity of notorious captains.\n- The Circle's captains feud, ally, and sometimes vote to declare a common enemy.\n- Captain Joryn \"Gullknife\" Sable is a known face of the Circle.\n- Captain Mother Rill is a named face of the Circle.",
       "importance": 4,
       "image": null
     },
     "tideborn-covenant": {
       "name": "The Tideborn Covenant",
-      "description": "Sea-mystics who trade blessings and concealment for secrets, names, and binding vows to “keep the deep asleep.”",
-      "history": "Their oath-and-price witchcraft is a known force in the archipelago’s power struggles.",
+      "description": "Sea-mystics who trade blessings and concealment for secrets, names, and binding vows to \"keep the deep asleep.\" Their magic is oath-and-price based, leaving marks and debts behind. Their immediate presence in the opening scene is not established yet.",
+      "history": "- The Tideborn Covenant offers blessings in exchange for secrets, names, and vows.\n- Tideborn magic is oath-and-price based.\n- Sister Brine is a face of the Tideborn Covenant.\n- The Drowned Scribe is a face of the Tideborn Covenant.\n- Not established yet.",
       "importance": 4,
+      "image": null
+    },
+    "testguild": {
+      "name": "Testguild",
+      "description": "A smugglers guild operating in the Sapphire Archipelago. Their leadership, methods, and relationships to other powers are not established yet. Their immediate presence at Sablemarket Cay is not established yet.",
+      "history": "- Testguild is a smugglers guild.\n- Testguild operates in the Sapphire Archipelago.\n- Testguild's leadership is not established yet.\n- Testguild's relationships with the Crown Navy, Eastwater Company, and Free Harbors League are not established yet.\n- Testguild's current operations and territory are not established yet.",
+      "importance": 3,
       "image": null
     }
   },
   "version": 1,
-  "updated_utc": "2026-01-31T20:04:24Z"
+  "updated_utc": "2026-01-31T22:36:52Z"
 }
