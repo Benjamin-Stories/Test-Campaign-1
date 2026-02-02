@@ -2,17 +2,23 @@
   "entries": {
     "ben-the-muster": {
       "name": "Ben \"the Muster\"",
-      "description": "Captain of the campaign's starting sloop (name not established yet), commanding about 40 crew. He is known as a charismatic recruiter and a feared organizer, a reputation that attracts both allies and trouble. His name draws attention openly, even in pirate spaces like Sablemarket Cay.",
-      "history": "- Ben \"the Muster\" is the campaign's captain.\n- Ben commands a small, fast sloop.\n- Ben's crew is approximately 40 people.\n- A plainclothes Navy lieutenant asks publicly for Ben's current berth at Sablemarket Cay.\n- Bounties are rising, and the Company is buying informants in Free Harbors.",
+      "description": "Captain of a small, fast sloop with about 40 hands. A charismatic recruiter and feared organizer, the kind who can turn a dockside crowd into a crew.",
+      "history": "Ben runs the ship by the Articles and keeps his people together even when pay is thin. At Sablemarket Cay, a plainclothes Crown Navy lieutenant quietly asked the auctioneer for Ben's current berth, putting heat close to the gangplank. Bounties are rising, and the Eastwater Company is buying informants in Free Harbors, so every port visit risks turning into a trap.",
       "importance": 5,
-      "image": null
+      "image": {
+        "file": "Library\\images\\characters\\ben-the-muster.jpg",
+        "updated_utc": "2026-02-01T17:55:26Z"
+      }
     },
     "joryn-gullknife-sable": {
       "name": "Captain Joryn \"Gullknife\" Sable",
       "description": "A rival captain and duelist associated with the Rival Captains known as the Blackwake Circle. He treats competition as a public game, watching for chances to counter or undercut Ben. At Sablemarket Cay, he is present at the rumor auction and tracks Ben's moves closely.",
       "history": "- Joryn \"Gullknife\" Sable is a rival captain.\n- Gullknife is associated with the Rival Captains (the Blackwake Circle).\n- Gullknife is at Sablemarket Cay during the auction of rumors.\n- Gullknife smiles at Ben from the front row as bidding begins on the Sunken Crown chart.",
       "importance": 4,
-      "image": null
+      "image": {
+        "file": "Library\\images\\characters\\joryn-gullknife-sable.jpg",
+        "updated_utc": "2026-02-01T17:57:08Z"
+      }
     },
     "lysa-quell": {
       "name": "Factor Lysa Quell",
@@ -26,7 +32,10 @@
       "description": "A senior face of the Crown Navy described as ruthless. He is positioned as a major threat whose interest in Ben is personal, not merely professional. His broader operations and current location are not established yet.",
       "history": "- Alaric Vane is a commodore in the Crown Navy.\n- Vane wants Ben's head for a past humiliation.",
       "importance": 4,
-      "image": null
+      "image": {
+        "file": "Library\\images\\characters\\alaric-vane.jpg",
+        "updated_utc": "2026-02-01T18:39:53Z"
+      }
     },
     "mirelda-soot": {
       "name": "Lt. Mirelda Soot",
@@ -37,8 +46,8 @@
     },
     "old-salt-merrow": {
       "name": "Councilor \"Old Salt\" Merrow",
-      "description": "A leading face of the Free Harbors League and a pragmatist focused on keeping sanctuary running. He represents the League's reality that safety has costs and politics. His specific actions in the current storyline are not established yet.",
-      "history": "- \"Old Salt\" Merrow is a councilor in the Free Harbors League.\n- Merrow is described as a pragmatist.\n- Merrow's direct role in current events is not established yet.",
+      "description": "A leading face of the Free Harbors League and a pragmatist focused on keeping sanctuary running at any cost. He represents the League's reality that safety has prices, rules, and politics. He is notable for his glass eye.",
+      "history": "- \"Old Salt\" Merrow is a councilor in the Free Harbors League.\n- Merrow is described as a pragmatist.\n- Merrow has a glass eye.\n- Merrow's direct role in current events is not established yet.",
       "importance": 3,
       "image": null
     },
@@ -58,5 +67,5 @@
     }
   },
   "version": 1,
-  "updated_utc": "2026-01-31T20:22:47Z"
+  "updated_utc": "2026-02-01T19:26:24Z"
 }
