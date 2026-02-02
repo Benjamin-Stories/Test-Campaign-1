@@ -58,3 +58,11 @@ Use this format per location:
 - **True Name:** occult identifier used in Tideborn rites.
 - **The Brightwater Run:** main trade lane.
 - **Gallowsweather:** the fog/squall region where ships vanish.
+
+## E) Descriptions (visual/voice quick refs)
+### Councilor “Old Salt” Merrow (Free Harbors League)
+- **Look:** older and weather-worn; functional salt-dark coat and practical boots; carries himself like a man used to keeping balance on moving boards.
+- **Notable feature:** a **glass eye** that holds light dull and steady; when he turns his head it doesn’t quite track like the other.
+- **Manner:** mouth usually a hard line; calculation over warmth.
+- **Voice:** low, plain, and economical—words are treated like they cost.
+- **Vibe:** doesn’t *enjoy* threats; keeps the harbor running anyway.

@@ -1,5 +1,26 @@
 # Session Logs
 
+## Session 1 — Opener Scene: “The Auction of Rumors” (2026-02-02)
+**Location:** Sablemarket Cay (pirate bazaar)
+
+### What happened (at table)
+- The scene was established: humid night at Sablemarket Cay’s floating shanty-bazaar, lanternlit and creaking with the swell; the crew nearby, tense and hungry after a poor take.
+- A crier ran an auction of “secrets” sealed in glass bottles—rumors, maps, and names “guaranteed true.”
+- Three immediate pressures were presented simultaneously:
+  - A Company courier offered: **Factor Lysa Quell will “buy your next week—exclusive.”**
+  - A Navy lieutenant in a plain coat quietly asked the auctioneer for **“Ben the Muster’s current berth.”**
+  - A sealed bottle drew bids: **a chart to the Sunken Crown**, with a deadline: **low tide in three days**.
+- Rival captain **Joryn “Gullknife” Sable** was spotted in the front row, smiling as if ready to counter whatever move Ben makes.
+- **Councilor “Old Salt” Merrow** was described on-site: older, weather-worn, practical officewear; carries political balance like shipboard balance; notable **glass eye**; low, plain voice; a man who keeps the harbor running.
+
+### Scene options on the table
+1. Push into the auction and bid hard for the Sunken Crown chart.
+2. Peel off to negotiate the Company’s “exclusive” offer.
+3. Shadow the Navy lieutenant and learn who’s hunting Ben and why.
+4. Fall back to the sloop, rally officers, and decide as a crew.
+
+---
+
 ## Session 0 — Setup & Canon (2026-01-31)
 **Purpose:** establish ship details, crew officers, table lines/veils, and the first pressures.
 
