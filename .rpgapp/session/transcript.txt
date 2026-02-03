@@ -55,3 +55,24 @@ Up close, his mouth is a hard line that loosens only when he’s making a point,
 
 How do you want to handle him?
 
+[2026-02-03 16:35:11] PLAYER:
+Start the next session. Begin EXACTLY at the current scene state and narrate the next moment. Do not change location or situation.
+
+[2026-02-03 16:35:21] GM:
+The lock gives with a soft, traitorous click.
+
+In the cramped warmth of upstairs room #3 at the Broken Anvil, the sound lands like a dropped coin in a church. Rain ticks and drags at the window behind Mara, and the lanternlight in the room trembles as a draft snakes in under the door. Mara’s hand is already up, two fingers held tight together in a sharp, silent warning. Her eyes don’t leave the latch.
+
+The handle turns, slow at first—testing. The door presses inward a hair, wood whispering against the frame. Whoever’s out there doesn’t shove. They’re careful. Professional careful.
+
+Mara leans just enough to put her mouth near your ear without moving the rest of her body. “Don’t breathe loud,” she murmurs, barely sound at all. “If it’s who I think, there’s more in the hall.”
+
+The door opens the width of a palm. A thin slice of the hallway appears: darker than your room, lit by a weak, yellow spill from somewhere farther down. You catch the smell of wet wool and old smoke. A shape blocks the gap—shoulder first—then pauses, listening.
+
+What do you do?
+
+1) Stay absolutely still and let them commit to entering.  
+2) Rush the door the instant it widens—slam it and grab whoever’s on the other side.  
+3) Whisper to Mara to hide the map while you take position to ambush.  
+4) Speak softly through the crack, trying to bluff that the room is occupied by someone dangerous.
+
