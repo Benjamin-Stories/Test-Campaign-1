@@ -1,0 +1,57 @@
+﻿[2026-01-31 18:24:17] PLAYER:
+What's the current scene?
+
+[2026-01-31 18:24:28] GM:
+Night presses down warm and wet over Sablemarket Cay, turning the air into something you can almost drink. Lanterns sway on ropes strung between scavenged masts and broken hulls, their light smearing across black water and oil-slick planks. The whole bazaar floats—stitched together from lashed docks and salvage—creaking softly every time a wave breathes under it.
+
+A crowd knots tight around a raised crate where a crier is selling secrets sealed in glass bottles: rumors, maps, names. Each one held up to the light like a jewel, each one promised “guaranteed true,” and you can feel your crew nearby—restless, watching, counting the days since the last take that left more bruises than coin. Your sloop sits moored close enough that the tar and wet rope are in your nose.
+
+Then the night splits three ways at once. A Company courier shoulders through, close enough to hiss in your ear: “Factor Quell will buy your next week—exclusive.” At the same time, a Navy lieutenant in a plain coat leans toward the auctioneer and asks, quiet as a knife, for “Ben the Muster’s current berth.” And above it all, the crier raises a sealed bottle high—inside, a rolled chart gleams pale—calling out: “A chart to the Sunken Crown—low tide in three days.” Bidding starts immediately.
+
+From the front row, your rival—Gullknife Sable—tilts his head and smiles at you like he already knows what you’re going to do.
+
+1) Push through to the bottle-auction and bid hard before Gullknife can.  
+2) Peel off toward the Company courier and hear what “exclusive” really costs.  
+3) Shadow the Navy lieutenant, find out why he’s asking after Ben the Muster.  
+4) Ignore all of it and go back to the sloop to rally your officers and make a call as a crew.
+
+What do you do?
+
+[2026-01-31 18:29:53] PLAYER:
+Explain the scene
+
+[2026-01-31 18:30:06] GM:
+You’re on Sablemarket Cay at night—a floating shanty-bazaar stitched together from scavenged docks, broken hulls, and lashed timbers. It’s humid, crowded, and unstable underfoot, lanternlight sliding across black water while everything creaks and shifts with the swell. Your sloop is moored close, so you’re not far from safety, but you’re in the crush of people and opportunity.
+
+At the center of the commotion, a crier is running an auction of “secrets” sealed in glass bottles. The spectacle is the point: bottles lifted to the light, buyers jostling, promises of truth. Your crew is nearby, tense and hungry—watching you to see what direction you choose after a rough run that didn’t pay.
+
+Three threads hit you at once, each pulling hard:
+A Company courier slips in close and offers you a deal: Factor Quell will “buy your next week—exclusive,” meaning money and protection now, but you’d be tied to whatever job Quell wants and shut off from other work.
+A Navy lieutenant, trying to stay unnoticed in a plain coat, quietly asks the auctioneer where “Ben the Muster” is berthed—suggesting the Navy is hunting someone, and you might be able to leverage that information or get caught in it.
+And the crier unveils the biggest lure: a chart to the Sunken Crown, with a time pressure—low tide in three days—so whoever wins it gets a narrow window to act.
+
+Your rival, Gullknife Sable, is in the front row already smiling at you, like he’s ready to counter whatever move you make—outbid you, undercut you, or follow you to the prize.
+
+1) Shoulder into the auction and go after the Sunken Crown chart.  
+2) Step aside with the courier and learn the real terms of Quell’s “exclusive.”  
+3) Trail the Navy lieutenant and dig into who Ben the Muster is and why he’s wanted.  
+4) Fall back to your sloop, pull your officers in close, and decide as a crew.
+
+Which thread do you grab first?
+
+[2026-02-01 19:38:35] PLAYER:
+Can you describe Councilor Merrow for mer?
+
+[2026-02-01 19:38:43] GM:
+You spot Councilor “Old Salt” Merrow where the Cay’s lanternlight can’t quite decide what to do with him—half swallowed by shadow, half caught in a slick sheen off the water. He’s older, weather-worn in the way dock-timber gets: grain raised, corners knocked down, still solid. His clothes are good enough to signal office but cut for function—salt-dark coat, practical boots, nothing that can snag on rigging. He carries himself like a man who’s spent a lifetime keeping his balance on moving boards and in moving politics.
+
+The thing everyone notices first is the glass eye. It doesn’t catch light the way the other one does; it holds it, dull and steady, like a marble left at the bottom of a cup. When he turns his head, that eye doesn’t quite turn with the same softness—so you always know exactly when he’s decided to look at you.
+
+Up close, his mouth is a hard line that loosens only when he’s making a point, and even then it’s more calculation than warmth. His voice—when it comes—is low and plain, the kind that doesn’t waste words because words cost. He doesn’t look like a man who enjoys threats. He looks like a man who keeps the harbor running anyway.
+
+1) Approach Merrow openly and ask what he wants tonight.  
+2) Watch from a distance and see who comes to him—and what they pay.  
+3) Try to catch a whispered word from his aides or guards nearby.  
+
+How do you want to handle him?
+
