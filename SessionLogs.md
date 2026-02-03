@@ -1,5 +1,18 @@
 # Session Logs
 
+## Session 2 — “Room #3 at the Broken Anvil” (2026-02-03)
+**Location:** Upstairs room #3, The Broken Anvil (rainy night)
+
+### What happened (at table)
+- Play opened **in medias res** in a cramped upstairs room at **the Broken Anvil** as **a lock clicked** and the door began to open.
+- **Mara** was present in the room; she signaled a sharp, silent warning and watched the latch without blinking.
+- The intruder tested the handle and **opened the door only a palm’s width**, moving with **careful, professional** restraint.
+- Mara whispered: **“Don’t breathe loud… If it’s who I think, there’s more in the hall.”**
+- A thin slice of the hallway was visible—darker than the room, weak yellow light farther down; **smell of wet wool and old smoke**; a shoulder paused at the gap, listening.
+- The moment ended on a choice: hold still, rush the door, hide the map, or bluff through the crack.
+
+---
+
 ## Session 1 — Opener Scene: “The Auction of Rumors” (2026-02-02)
 **Location:** Sablemarket Cay (pirate bazaar)
 
