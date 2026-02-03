@@ -1,20 +1,19 @@
 ## RECAP
-- The crew arrived at **Sablemarket Cay** at night, a lanternlit floating bazaar built from lashed salvage.
-- A crier began auctioning “secrets” in sealed glass bottles: rumors, maps, and names.
-- A Company courier offered work: **Factor Lysa Quell will buy your next week—exclusive**.
-- A Navy lieutenant in a plain coat quietly asked the auctioneer for **Ben the Muster’s current berth**.
-- The biggest lure hit the block: **a chart to the Sunken Crown**, with **low tide in three days**.
-- Rival captain **Joryn “Gullknife” Sable** watched from the front row, smiling.
-- **Councilor “Old Salt” Merrow** was spotted nearby: weather-worn, pragmatic, with a notable **glass eye** and a low, economical voice.
+- At Sablemarket Cay, the crew faced competing pressures: a Company “exclusive” offer, a Navy inquiry into Ben’s berth, and an auctioned chart to the Sunken Crown.
+- Rival captain Gullknife Sable watched the action from the front row, ready to counter.
+- Councilor “Old Salt” Merrow was seen on the Cay: weather-worn, pragmatic, with a dull-glinting glass eye and a low, economical voice.
+- The most recent scene opened in a different location: an upstairs room at the Broken Anvil during a rainy night.
+- A lock clicked and the door began to open—slow, careful, professional.
+- Mara signaled silence and warned there may be more in the hall.
 
 ## CURRENT SITUATION
-- You’re in the crowd at Sablemarket Cay as the Sunken Crown bottle draws bids.
-- Company, Crown, and pirate rivals are all within arm’s reach.
-- Your crew is restless and watching for your call.
+- You are in **upstairs room #3** at **the Broken Anvil** as an intruder opens the door only a palm’s width.
+- The hallway beyond is dim, with weak yellow light farther down; you smell wet wool and old smoke.
+- Mara is poised and whisper-quiet, watching the latch and listening.
 
 ## OPEN THREADS
-- Do you **win/steal** the Sunken Crown chart (and what price will it demand)?
-- Do you **hear out or refuse** Quell’s “exclusive week,” and on what terms?
-- Do you **trail or mislead** the Navy lieutenant hunting Ben’s berth?
-- What does **Gullknife Sable** plan to do if you move on any of the above?
-- Is **Merrow** here as an observer, a broker, or to enforce League interests?
+- Who is trying to enter room #3, and how many are in the hall?
+- What happened between Sablemarket Cay and the Broken Anvil to put you here?
+- The Sunken Crown chart’s low-tide deadline (three days) still looms.
+- The Company’s “exclusive week” offer remains unresolved.
+- The Navy’s interest in Ben’s berth suggests an imminent hunt or trap.
