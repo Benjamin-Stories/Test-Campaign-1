@@ -132,3 +132,20 @@ He shifts his weight, boots squeaking faintly on the wet stone. “Name?” he a
 
 What do you do?
 
+[2026-02-04 23:05:05] PLAYER:
+What's the current scene
+
+[2026-02-04 23:05:15] GM:
+Mist needles down out of a black sky, softening the world into lantern-halo and wet stone. You’re on a city street at night, near a corner where an awning drips steadily beside a notice board sagging under damp parchment. The paving stones shine with reflected light; wagon ruts cut dark grooves through the sheen. Late foot traffic flows around you—dockhands trudging home, two clerks sharing an umbrella, a fishwife with an empty basket—everyone intent on their own bed and their own door.
+
+A lone city guard has stepped out from under the awning and stopped you in the street. He’s a stranger, tired but professional, one hand raised palm-out to hold you, the other resting near the short baton on his belt. He’s giving you the kind of quick, practical once-over any guard gives a traveler near curfew—boots, hands, coat line, any obvious weapon-bulge—nothing in his face says he recognizes you as anything more than another person on the road.
+
+He’s told you curfew is close and there have been pickpockets working this stretch. Now he’s waiting on your answers, asking where you’re headed, where you came in from, your name, and whether you’ve got papers for lodging—what house or inn you’re staying at.
+
+1) Give a simple, ordinary traveler’s name and a plausible destination.  
+2) Ask about the pickpockets and curfew rules, keeping your answers vague.  
+3) Offer lodging details (and papers if you have them) to get waved through quickly.  
+4) Refuse politely and try to move on, seeing how hard he pushes.
+
+What do you tell him?
+
