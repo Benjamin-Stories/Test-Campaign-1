@@ -76,3 +76,59 @@ What do you do?
 3) Whisper to Mara to hide the map while you take position to ambush.  
 4) Speak softly through the crack, trying to bluff that the room is occupied by someone dangerous.
 
+[2026-02-03 22:12:24] PLAYER:
+A random city guard who has never met me stops me on the street.
+Important: I am secretly the heir to the throne, but I'm disguised as an ordinary traveler and there is NOTHING visible that would reveal my identity. Nobody has told the guard. The guard has not witnessed anything about me before this moment.
+
+Play the scene. The guard should act like a normal guard with limited knowledge.
+
+[2026-02-03 22:12:35] GM:
+The door stays a palm-width open, breathing hallway air into the room. The shape outside doesn’t push in yet.
+
+Somewhere down the corridor, floorboards complain—another weight shifting. Mara’s warning makes a kind of awful sense.
+
+Then a voice, not right at the crack but close enough to carry, says, “Lanterntime patrol. Open up.”
+
+A beat later, boot leather scuffs. The shoulder at the gap pulls back slightly, and the angle changes—like someone making room for a uniformed man to step into the best position to be heard. A thin wedge of the hallway widens just enough for you to catch the outline of a city guard’s sleeve and the dull glint of a badge in the weak yellow light.
+
+“Come on,” the guard adds, impatient but not panicked. “Inn’s supposed to keep doors latched. We had a report of a scuffle upstairs. Who’s in there?”
+
+Mara doesn’t look at you. She keeps her gaze locked on the latch and the sliver of hall beyond it, breathing shallow through her nose. Her raised fingers lower a fraction, then hold—still warning, still quiet.
+
+The guard shifts again. You hear the small sounds of a working man on duty: a throat cleared, the faint clack of something on his belt—truncheon or ring of keys. “Open it proper,” he says. “Or I’m coming in.”
+
+1) Stay silent and let the guard decide to enter, setting up an ambush if he crosses the threshold.  
+2) Speak through the crack, calm and ordinary, and ask what this is about—try to keep him in the hall.  
+3) Open the door just enough to show your hands and de-escalate, watching the hallway for the “more” Mara warned about.  
+4) Whisper to Mara to slip to the window while you distract the guard at the door.  
+
+What do you do?
+
+[2026-02-03 22:16:07] PLAYER:
+A random city guard who has never met me stops me on the street.
+Important: I am secretly the heir to the throne, but I'm disguised as an ordinary traveler and there is NOTHING visible that would reveal my identity. Nobody has told the guard. The guard has not witnessed anything about me before this moment.
+
+Play the scene. The guard should act like a normal guard with limited knowledge.
+
+[2026-02-03 22:16:25] GM:
+The rain has eased into a thin, needling mist that turns lanternlight into halos. Street stones shine slick black; wagon ruts hold little mirrors of bruised-yellow light. You move with the late crowd—dockhands heading home, a pair of clerks arguing under one umbrella, a fishwife with an empty basket—just another traveler with road dust on your hems and no one’s attention lingering.
+
+“Ho there. You. Traveler.”
+
+A city guard steps out from under an awning as if he’s been carved from it—average height, broad through the shoulders, helmet damp, cloak dark with rain. His hand is up, palm out, the other resting near a short baton at his belt. Not aggressive. Just practiced.
+
+“Hold a moment,” he says, voice tired but firm. He looks you over the way a man checks a cartwheel: boots, hands, the line of your coat, any obvious bulge where a blade shouldn’t be. His gaze doesn’t sharpen with recognition—there isn’t any. To him you’re simply someone who could be trouble, or could be nothing at all.
+
+“Curfew’s close,” he goes on, nodding toward the nearest corner where a notice board sags under wet parchment. “And we’ve had pickpockets working this stretch. Where you headed, and where’d you come in from?”
+
+Behind him, the street keeps moving. No one stops. No one stares. A normal check, in a normal city, by a guard who’s probably been on his feet too long.
+
+He shifts his weight, boots squeaking faintly on the wet stone. “Name?” he adds, not unkindly. “And do you have any papers for lodging? If you’re staying the night, I’ll want to know which house.”
+
+1) Answer plainly with your traveler’s name and destination, keeping it simple.  
+2) Offer a polite excuse and try to step around him, testing whether he’ll insist.  
+3) Ask what’s happened—pickpockets, curfew—play curious and gather information.  
+4) Produce whatever travel or lodging paper you have (real or forged) and watch his reaction closely.  
+
+What do you do?
+
