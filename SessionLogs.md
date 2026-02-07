@@ -1,5 +1,17 @@
 # Session Logs
 
+## Session 3 — “Stopped Near Curfew” (2026-02-07)
+**Location:** Night street (misty), near an awning and a notice board
+
+### What happened (at table)
+- The current scene state was established: **misty night**, **wet stone streets**, lantern halos, late foot traffic moving past.
+- A **lone city guard** (tired but professional) **stopped the traveler near curfew**, doing a routine once-over for weapons and trouble.
+- The guard cited **curfew** and **recent pickpockets** on the stretch as the reason for the stop.
+- The guard asked standard questions: **where you’re headed**, **where you came in from**, **your name**, and **whether you have lodging papers / which inn or house** you’re staying at.
+- No recognition or special knowledge was shown by the guard; it played as an ordinary street check.
+
+---
+
 ## Session 2 — “Room #3 at the Broken Anvil” (2026-02-03)
 **Location:** Upstairs room #3, The Broken Anvil (rainy night)
 
