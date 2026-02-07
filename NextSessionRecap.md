@@ -1,19 +1,19 @@
+## LAST SESSION SUMMARY
+On a misty night street near curfew, a lone city guard performed a routine stop of a traveler, citing recent pickpockets and asking standard identification and lodging questions.
+
 ## RECAP
-- At Sablemarket Cay, the crew faced competing pressures: a Company “exclusive” offer, a Navy inquiry into Ben’s berth, and an auctioned chart to the Sunken Crown.
-- Rival captain Gullknife Sable watched the action from the front row, ready to counter.
-- Councilor “Old Salt” Merrow was seen on the Cay: weather-worn, pragmatic, with a dull-glinting glass eye and a low, economical voice.
-- The most recent scene opened in a different location: an upstairs room at the Broken Anvil during a rainy night.
-- A lock clicked and the door began to open—slow, careful, professional.
-- Mara signaled silence and warned there may be more in the hall.
+- Misty night, lantern halos, wet stone streets, late foot traffic.
+- A city guard stepped out from under an awning and halted the traveler.
+- The guard gave a quick, practical once-over for weapons/trouble.
+- He cited curfew approaching and pickpockets working the area.
+- He asked for name, where you came from, where you’re headed, and lodging details/papers.
 
 ## CURRENT SITUATION
-- You are in **upstairs room #3** at **the Broken Anvil** as an intruder opens the door only a palm’s width.
-- The hallway beyond is dim, with weak yellow light farther down; you smell wet wool and old smoke.
-- Mara is poised and whisper-quiet, watching the latch and listening.
+- You’re stopped in the street with the guard waiting on your answers.
+- Pedestrians continue to pass by without paying much attention.
+- The guard is firm but not hostile—yet.
 
 ## OPEN THREADS
-- Who is trying to enter room #3, and how many are in the hall?
-- What happened between Sablemarket Cay and the Broken Anvil to put you here?
-- The Sunken Crown chart’s low-tide deadline (three days) still looms.
-- The Company’s “exclusive week” offer remains unresolved.
-- The Navy’s interest in Ben’s berth suggests an imminent hunt or trap.
+- What identity (and paperwork, if any) you present to get waved through.
+- Whether the guard’s pickpocket warning is routine… or a pretext for something else.
+- How this street-level scrutiny connects (if at all) to bigger faction pressures elsewhere.
